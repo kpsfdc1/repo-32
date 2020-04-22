@@ -1,4 +1,7 @@
 class hello
 {
 	main()
+	{
+		print();
+	}
 }
